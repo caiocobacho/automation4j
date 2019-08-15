@@ -1,5 +1,14 @@
-# automation4j
+# automation4j - Simple Mobile Automation Framework
 
-## About
+## About automation4j
 
-This is a simple mobile automation framework, works in both native and hybrid app. It is currently configured for android only. For iOS just change the capabilities.
+automation4j is a simple mobile framework, currently configured for android only, works on both native and hybrids apps. If you want to use on iOS, just adjust the capabilities.
+
+# More info
+The model of your architecture is in PageObjects, I also created a simple junit runner, already with an example feature. Obviously using Cucumber for BDD testing.
+
+
+
+
+
+
